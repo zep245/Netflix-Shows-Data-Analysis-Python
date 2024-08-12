@@ -18,7 +18,7 @@ The analysis is divided into the following sections:
 2. **distribution of type of content on netflix**<br>
 ![download (1)](https://github.com/user-attachments/assets/3bc5ad87-bb65-458d-873c-bd88a0fc163b)
 
-3. **Pie chart of content with percentage**
+3. **Pie chart of content with percentage**<br>
 ![download (2)](https://github.com/user-attachments/assets/b3eae8e8-df16-4d42-80f8-ade30019a750)
 
 4. **Netflix content releases over the years**
